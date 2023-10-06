@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Oğuzhan
-- 👀 I’m interested in game developing and monile programming 
-- 🌱 I’m currently learning flutter programming
-
+- 👀 I'am a fronted developer
+- 🌱 I'am currently working on web and mobile programming.
 
